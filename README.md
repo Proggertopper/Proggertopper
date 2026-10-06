@@ -1,3 +1,13 @@
+# Oleksandr Kosynskyi
+
+Junior Java Backend Developer focused on building backend applications with
+Java, Spring Boot, PostgreSQL, Docker, REST APIs, and automated tests.
+
+- 🌍 Based in Dnipro, Ukraine — open to remote opportunities
+- 💼 Looking for Junior / Trainee Java Backend Developer roles
+- 🧩 Strong Java Core foundation: completed the JavaRush course
+- 🔗 Portfolio projects are pinned below
+
 ## Live Projects
 
 ### [PropertyCost — Real Estate Analysis Platform](https://mypropertycost.com/)
