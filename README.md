@@ -1,11 +1,11 @@
 # Hi, I'm Oleksandr Kosynskyi 👋
 
-### Junior Java Backend Developer
+### Java Backend Developer
 
 I build backend applications with **Java, Spring Boot, PostgreSQL and REST APIs**. My projects include a doctor appointment system, an e-commerce microservices backend and a deployed real estate analysis platform.
 
 📍 **Dnipro, Ukraine**  
-💼 **Open to Junior / Trainee Java Backend roles · Available full-time**  
+💼 **Open to Java Backend roles · Available full-time**  
 🌍 **English: B1 (Intermediate)**
 
 [LinkedIn](https://www.linkedin.com/in/oleksandr-kosynskyi-java/) · [Live project](https://mypropertycost.com) · [Email](mailto:sasakosinskij8@gmail.com)
